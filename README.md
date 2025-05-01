@@ -1,2 +1,2 @@
 # Python_Projects
-These are projects I have worked using Python.
+These are the projects I have worked on using Python.
